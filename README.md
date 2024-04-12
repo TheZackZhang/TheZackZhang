@@ -1,1 +1,1 @@
-Hello there! My name is zack and I love python!
+I love coding things!
